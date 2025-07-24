@@ -1,0 +1,8 @@
+streamlit
+pandas
+selenium
+openpyxl
+lxml
+xlrd
+tk
+xlsxwriter
