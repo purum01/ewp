@@ -4,5 +4,4 @@ selenium
 openpyxl
 lxml
 xlrd
-tk
 xlsxwriter

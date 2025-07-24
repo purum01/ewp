@@ -1,10 +1,7 @@
-from tracemalloc import start
-from outcome import Value
+
 import streamlit as st
 from datetime import date
 import base64
-import tkinter as tk
-from tkinter import filedialog
 
 st.set_page_config(layout="centered")
 
